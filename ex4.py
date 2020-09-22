@@ -1,0 +1,11 @@
+n=2
+m=n*100
+kg=n*100000
+ani=n*12
+saptamani=n*52
+zile=n*365
+print(m)
+print(kg)
+print(ani)
+print(saptamani)
+print(zile)
